@@ -1,0 +1,16 @@
+{
+  "name": "json-ipc",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Gvozd/json-ipc.git"
+  },
+  "keywords": [
+  ],
+  "author": "Gvozd <gvozdev.viktor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gvozd/json-ipc/issues"
+  },
+  "homepage": "https://github.com/Gvozd/json-ipc/issues"
+}
